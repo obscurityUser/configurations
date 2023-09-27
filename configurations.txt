@@ -22,3 +22,7 @@ with dejavu sans mono book
 setup shortcuts
 
 setup firefox
+
+install chatterino
+
+install and setup zsh
