@@ -3,7 +3,7 @@ sudo pacman -S lightdm-gtk-greeter
 sudo nano /etc/modprobe.d/blacklist.conf
 blacklist pcspkr
 
-setxkbmap -option caps:escape,shift:both_capslock &
+put the betternvim.sh in this repo on your startup scripts
 
 install pretty fonts
 
