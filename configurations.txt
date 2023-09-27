@@ -1,0 +1,24 @@
+sudo pacman -S lightdm-gtk-greeter
+  
+sudo nano /etc/modprobe.d/blacklist.conf
+blacklist pcspkr
+
+setxkbmap -option caps:escape,shift:both_capslock &
+
+install pretty fonts
+
+setup font, theme and icons -> https://www.youtube.com/watch?v=29ARF14InaU
+
+sudo pacman -S lightdm-gtk-greeter-settings 
+then setup it to arc-dark
+  
+install neovim and the init.lua
+:checkhealth
+
+  
+custom clock options %A | %d-%m-%Y | %R
+with dejavu sans mono book
+
+setup shortcuts
+
+setup firefox
