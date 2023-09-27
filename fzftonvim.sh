@@ -1,4 +1,4 @@
 #!/bin/sh
 
-FILE=$(fzf)
+FILE=$(rg --hidden -l "" | fzf)
 nvim $FILE
