@@ -23,6 +23,10 @@ setup shortcuts
 
 setup firefox
 
+install spotify
+install gnome-shell-pomodoro
 install chatterino
+
+setup password manager
 
 install and setup fish
