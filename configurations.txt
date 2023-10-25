@@ -30,3 +30,5 @@ install chatterino
 setup password manager
 
 install and setup fish
+
+mpv --no-border --snap-window --player-operation-mode=pseudo-gui -- %U
