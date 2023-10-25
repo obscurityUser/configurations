@@ -12,9 +12,9 @@ setup font, theme and icons -> https://www.youtube.com/watch?v=29ARF14InaU
 sudo pacman -S lightdm-gtk-greeter-settings 
 then setup it to arc-dark
   
-install neovim and the init.lua
-:checkhealth
+install neovim and astronvim
 
+install redshifter
   
 custom clock options %A | %d-%m-%Y | %R
 with dejavu sans mono book
@@ -25,4 +25,4 @@ setup firefox
 
 install chatterino
 
-install and setup zsh
+install and setup fish
